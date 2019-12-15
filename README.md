@@ -1,1 +1,1 @@
-Source for my [website](https://imamnrchls.github.io)
+Source for my [website](https://imamnrchls.xyz/)
