@@ -2,7 +2,7 @@ title: PsychoYouth!
 logo: "images/logo.png" # You can add own logo image.
 description: Idealistic and reckless
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "http://imamnrchls.xyz" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
