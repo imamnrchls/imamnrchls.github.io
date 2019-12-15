@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Idk what i'am doing here.
+I don't have any idea why i'm being here.
