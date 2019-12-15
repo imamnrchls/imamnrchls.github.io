@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Masalah Pertanian"
+
+comments: true
+categories:
+  - sastra
+tags:
+  - esai
+---
+
+![Farm](/images/tani.png)
+<hr>
+Pangan merupakan kebutuhan dasar bagi manusia. Salah satu sumber pangan tersebut berasal dari hasil pertanian dan perkebunan. Indonesia yang merupakan negara agraris seharusnya dapat menjadi pemasok komoditas hasil pertanian dan perkebunan ke dunia internasional. Atau setidaknya mampu mewujudkan kedaulatan pangan negara. Selain itu, diharapkan pula negara mampu menciptakan sistem pertanian yang modern, efisien serta negara juga telah dapat menjamin kesejahteraan hidup bagi para petani. Namun, pada kenyataannya kondisi pertanian di Indonesia masih sangat tertinggal jika dibandingkan dengan negara agraris lainnya. Makin berkurangnya lahan, adanya konflik agraria, sistem pertanian yang masih tergolong kuno, serta semakin minimnya minat generasi muda untuk menjadi petani merupakan masalah serius yang sedang dihadapi oleh Indonesia saat ini.
+
+Masalah serius di bidang pertanian yang tengah dihadapi oleh Indonesia saat ini adalah pengurangan lahan. Pengurangan lahan yang terjadi di Indonesia saat ini, sebagian besar merupakan akibat dari pembangunan yang sedang gencar-gencarnya dilakukan oleh pemerintah. Baik itu pembangunan di bidang industri, perumahan, atau pun di bidang infrastruktur. Dengan berkurangnya lahan maka jumlah hasil produksi tani dalam negeri akan berkurang. Selain itu, apabila daerah yang mulanya merupakan kawasan pertanian digunakan sebagai kawasan industri, maka akan menimbulkan masalah lain yaitu rusaknya lingkungan sekitar karena limbah hasil alat-alat produksi yang digunakan oleh industri. Hal tersebut juga diperparah dengan minimnya kesadaran beberapa pihak akan pentingnya pembangunan berkelanjutan bagi negara indonesia.
+
+Sadar akan hal tersebut, saat ini banyak masyarakat yang mulai menolak adanya alih fungsi lahan dari kawasan pertanian menjadi kawasan industri. Akan tetapi, banyak dari masyarakat yang menolak pembangunan kawasan industri tersebut dikriminalisasi atau pun mendapat kekerasan dari oknum tertentu. Masalah ini seringkali disebut sebagai konflik agraria. Salah satu konflik agraria yang terjadi saat ini berada di Kulon Progo, Daerah Istimewa Yogyakarta. Di Kulon Progo sejak 2017, sebagian warga lokal serta petani menolak rencana pemerintah membangun bandara internasional di kawasan mereka. Konflik tersebut tidak hanya melibatkan petani dan PT Angkasa Pura I saja, namun juga melibatkan aparat kepolisian dan militer. Tak jarang kekerasan terjadi dalam konflik agraria tersebut. Contoh lain dari konflik agraria di Indonesia adalah konflik pendirian pabrik semen di Kendeng yang telah mengakibatkan salah seorang aktivis yang bernama Bu Patmi meninggal dunia.
+
+Problematika lain yang menjadi PR pemerintah adalah sistem pertanian di Indonesia yang masih sangat konvesional. Mayoritas petani di Indonesia masih menggunakan cara tradisional dalam mengolah lahan pertanian mereka. Selain itu, kebijakan pertanian di Indonesia juga dirasa masih kurang mendukung para petani. Jika dibandingkan dengan Thailand dan Vietnam, Indonesia dapat dikatakan telah kalah telak di bidang kebijakan dan teknologi tani. Di Vietnam pemerintahnya menjamin petani pasti akan mendapat untung sekurang-kurangnya 30 persen dari total biaya produksi. Sementara di Thailand telah memiliki 27 pusat penelitian beras yang bertujuan menciptakan bibit unggul yang memiliki kualitas dan daya tahan yang lebih baik dibanding bibit beras biasa.
+
+Dengan semakin berkurangnya lahan serta minimnya perhatian pemerintah di bidang pertanian maka tak mengherankan apabila minat generasi muda untuk menjadi petani semakin berkurang dari waktu ke waktu. Selain itu anggapan bahwa menjadi petani tidak dapat menjamin kehidupan yang makmur juga merupakan salah satu faktor pemicu masalah ini. Memang anggapan tersebut tidak dapat kita bantah untuk saat ini. Mengingat harga komoditas tani yang sangat tidak stabil serta tidak adanya jaminan bahwa hasil panen akan selalu memuaskan dan dapat menutup modal tanam merupakan kenyataan yang ada di masyarakat.
+
+Masalah di bidang pertanian telah menjadi masalah klasik di Indonesia. Sudah saatnya pemerintah mengambil tindakan nyata untuk mengatasi masalah ini agar cita-cita bangsa mewujudkan kedaulatan pangan dapat dicapai kembali. Serta agar tidak akan ada lagi alasan bagi generasi muda untuk berkata dengan bangga bahwa ia bercita-cita menjadi seorang petani.
+
+By : Gustiya Adi
