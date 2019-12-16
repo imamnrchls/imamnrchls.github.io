@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-![Avatar](images/avatar.png)
+<img src="images/avatar.png" alt="Smiley face" align="middle">
 I don't have any idea why i'm being here.
