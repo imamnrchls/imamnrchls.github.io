@@ -20,7 +20,7 @@ email: imamnrchls@outlook.com
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: PsycheYouth! # Add your hero title
-hero-subtitle: Idealisti and recless # Add your hero subtitle
+hero-subtitle: Idealistic and reckless # Add your hero subtitle
 hero-image: images/01.jpg # Add background image in section hero
 
 # Footer
