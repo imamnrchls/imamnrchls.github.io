@@ -9,8 +9,6 @@ tags:
   - esai
 ---
 
-![Farm](/images/tani.png)
-
 Pangan merupakan kebutuhan dasar bagi manusia. Salah satu sumber pangan tersebut berasal dari hasil pertanian dan perkebunan. Indonesia yang merupakan negara agraris seharusnya dapat menjadi pemasok komoditas hasil pertanian dan perkebunan ke dunia internasional. Atau setidaknya mampu mewujudkan kedaulatan pangan negara. Selain itu, diharapkan pula negara mampu menciptakan sistem pertanian yang modern, efisien serta negara juga telah dapat menjamin kesejahteraan hidup bagi para petani. Namun, pada kenyataannya kondisi pertanian di Indonesia masih sangat tertinggal jika dibandingkan dengan negara agraris lainnya. Makin berkurangnya lahan, adanya konflik agraria, sistem pertanian yang masih tergolong kuno, serta semakin minimnya minat generasi muda untuk menjadi petani merupakan masalah serius yang sedang dihadapi oleh Indonesia saat ini.
 
 Masalah serius di bidang pertanian yang tengah dihadapi oleh Indonesia saat ini adalah pengurangan lahan. Pengurangan lahan yang terjadi di Indonesia saat ini, sebagian besar merupakan akibat dari pembangunan yang sedang gencar-gencarnya dilakukan oleh pemerintah. Baik itu pembangunan di bidang industri, perumahan, atau pun di bidang infrastruktur. Dengan berkurangnya lahan maka jumlah hasil produksi tani dalam negeri akan berkurang. Selain itu, apabila daerah yang mulanya merupakan kawasan pertanian digunakan sebagai kawasan industri, maka akan menimbulkan masalah lain yaitu rusaknya lingkungan sekitar karena limbah hasil alat-alat produksi yang digunakan oleh industri. Hal tersebut juga diperparah dengan minimnya kesadaran beberapa pihak akan pentingnya pembangunan berkelanjutan bagi negara indonesia.
