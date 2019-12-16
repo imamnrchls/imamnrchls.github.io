@@ -22,5 +22,3 @@ Problematika lain yang menjadi PR pemerintah adalah sistem pertanian di Indonesi
 Dengan semakin berkurangnya lahan serta minimnya perhatian pemerintah di bidang pertanian maka tak mengherankan apabila minat generasi muda untuk menjadi petani semakin berkurang dari waktu ke waktu. Selain itu anggapan bahwa menjadi petani tidak dapat menjamin kehidupan yang makmur juga merupakan salah satu faktor pemicu masalah ini. Memang anggapan tersebut tidak dapat kita bantah untuk saat ini. Mengingat harga komoditas tani yang sangat tidak stabil serta tidak adanya jaminan bahwa hasil panen akan selalu memuaskan dan dapat menutup modal tanam merupakan kenyataan yang ada di masyarakat.
 
 Masalah di bidang pertanian telah menjadi masalah klasik di Indonesia. Sudah saatnya pemerintah mengambil tindakan nyata untuk mengatasi masalah ini agar cita-cita bangsa mewujudkan kedaulatan pangan dapat dicapai kembali. Serta agar tidak akan ada lagi alasan bagi generasi muda untuk berkata dengan bangga bahwa ia bercita-cita menjadi seorang petani.
-
-By : Gustiya Adi
