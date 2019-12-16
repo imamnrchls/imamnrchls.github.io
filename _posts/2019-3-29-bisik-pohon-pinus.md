@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bisik Pohon Pinus"
+author: "Imam Nur"
 categories:
   - Sastra
 tags:
