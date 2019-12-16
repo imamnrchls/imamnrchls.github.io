@@ -2,6 +2,7 @@
 layout: post
 title: "Menambah Kolom Komentar di Jekyll"
 comments: true
+author: "Imam Nur"
 categories:
   - tutorial
 tags:
