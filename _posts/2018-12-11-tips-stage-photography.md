@@ -35,4 +35,4 @@ Hasil terbaik bisa kamu dapatkan dengan menyimpan hasil foto dalam format RAW da
 <hr>
 Nah itu dia tips-tips saat melakukan stage photography, semoga membantu!.
 
-Sumber : [https://www.instagram.com/p/BqZkgYqgfAM/](https://www.instagram.com/p/BqZkgYqgfAM/)
+Sumber : [https://www.instagram.com/p/BqZkgYqgfAM/](@keelesson)
