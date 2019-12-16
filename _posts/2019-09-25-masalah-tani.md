@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Masalah Pertanian"
-
 comments: true
+author: "Imam Nur"
 categories:
   - sastra
 tags:
