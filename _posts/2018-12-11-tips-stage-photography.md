@@ -2,6 +2,7 @@
 layout: post
 title: "Tips Stage Photography"
 comments: true
+author: "Imam Nur"
 categories: artikel
 tags:
   - tips
