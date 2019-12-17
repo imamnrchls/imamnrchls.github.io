@@ -3,10 +3,7 @@ layout: post
 title: "Tips Stage Photography"
 comments: true
 author: "Imam Nur"
-categories: artikel
-tags:
-  - tips
-  - fotografi
+tags: [fotografi]
 ---
 
 Hobi fotografi konser atau stage photography merupakan hobi yang cukup unik dan diperlukan beberapa teknik khusus agar dapat menghasilkan foto yang baik. Berikut adalah tips-tips stage photography yang admin kutip dari instagram [@keelesson](https://www.instagram.com/keelesson/) agar hasil foto konser kalian lebih ciamik dan tentunya instagramable banget.
