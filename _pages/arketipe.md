@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Arketipe
-permalink: /arketipe/
-image: images/12.jpg
+title: Memo
+permalink: /memo/
+image: images/04.jpg
 ---
 
-Ini hanya halaman kosong.
+Soon.
