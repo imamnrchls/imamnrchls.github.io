@@ -1,0 +1,39 @@
+I"§<p>Setelah beberapa hari dibuat pusing oleh bagaimana caranya menambah kolom komentar pada github page, akhirnya saya menemukan cara yang cukup simple untuk mengatasi masalah tersebut. Dengan cara ini kalian tidak perlu lagi mencari page url dan page identifier seperti kebanyakan metode yang ada di google. Oke langsung saja kita ke tutorialnya.</p>
+
+<p>Pertama-tama buat akun <a href="https://disqus.com/profile/signup/">Disqus</a> terlebih dahulu. Apabila kalian sudah mempunyai akun Disqus cukup lewati langkah ini.</p>
+
+<p>Selanjutnya buka file <code class="highlighter-rouge">_config.yml</code> dan tambahkan kode berikut</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#Disqus
+disqus_shortname: shortname
+</code></pre></div></div>
+
+<p>Ganti shortname dengan <a href="https://help.disqus.com/installation/whats-a-shortname">Disqus Shortname</a> milik kamu.</p>
+
+<p>Sekarang buka folder <code class="highlighter-rouge">_include</code> dan buat file baru dengan nama <code class="highlighter-rouge">comments.html</code> kemudian tambahkan kode berikut di dalamnya.</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"container"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"row"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"</span> <span class="na">id=</span><span class="s">"disqus_thread"</span><span class="nt">&gt;</span>
+
+<span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
+    <span class="cm">/* * * CONFIGURATION VARIABLES * * */</span>
+    <span class="kd">var</span> <span class="nx">disqus_shortname</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">{{ site.disqus_shortname }}</span><span class="dl">'</span><span class="p">;</span>
+    
+    <span class="cm">/* * * DON'T EDIT BELOW THIS LINE * * */</span>
+    <span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+        <span class="kd">var</span> <span class="nx">dsq</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="dl">'</span><span class="s1">script</span><span class="dl">'</span><span class="p">);</span> <span class="nx">dsq</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">text/javascript</span><span class="dl">'</span><span class="p">;</span> <span class="nx">dsq</span><span class="p">.</span><span class="k">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+        <span class="nx">dsq</span><span class="p">.</span><span class="nx">src</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">//</span><span class="dl">'</span> <span class="o">+</span> <span class="nx">disqus_shortname</span> <span class="o">+</span> <span class="dl">'</span><span class="s1">.disqus.com/embed.js</span><span class="dl">'</span><span class="p">;</span>
+        <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="dl">'</span><span class="s1">head</span><span class="dl">'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span> <span class="o">||</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="dl">'</span><span class="s1">body</span><span class="dl">'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]).</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">dsq</span><span class="p">);</span>
+    <span class="p">})();</span>
+<span class="nt">&lt;/script&gt;</span>
+<span class="nt">&lt;noscript&gt;</span>Please enable JavaScript to view the <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"https://disqus.com/?ref_noscript"</span> <span class="na">rel=</span><span class="s">"nofollow"</span><span class="nt">&gt;</span>comments powered by Disqus.<span class="nt">&lt;/a&gt;&lt;/noscript&gt;</span>
+</code></pre></div></div>
+
+<p>Terakhir buka <code class="highlighter-rouge">post.html</code> yang terdapat di folder <code class="highlighter-rouge">_layouts</code> lalu tambahkan kode berikut.</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include comments.html %}
+</code></pre></div></div>
+
+<p>Done!.</p>
+:ET

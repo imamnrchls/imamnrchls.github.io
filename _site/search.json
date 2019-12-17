@@ -1,0 +1,35 @@
+[
+  
+    {
+      "title"    : "Masalah Pertanian",
+      "category" : "",
+      "tags"     : "sastra",
+      "url"      : "/2019/09/25/masalah-tani/",
+      "date"     : "2019-09-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Bisik Pohon Pinus",
+      "category" : "",
+      "tags"     : "sastra",
+      "url"      : "/2019/03/29/bisik-pohon-pinus/",
+      "date"     : "2019-03-29 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Menambah Kolom Komentar di Jekyll",
+      "category" : "",
+      "tags"     : "codding",
+      "url"      : "/2018/12/13/comment-section-jekyll/",
+      "date"     : "2018-12-13 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Tips Stage Photography",
+      "category" : "",
+      "tags"     : "fotografi",
+      "url"      : "/2018/12/11/tips-stage-photography/",
+      "date"     : "2018-12-11 00:00:00 +0700"
+    } 
+  
+]
