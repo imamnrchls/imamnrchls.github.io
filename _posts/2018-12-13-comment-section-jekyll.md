@@ -3,11 +3,7 @@ layout: post
 title: "Menambah Kolom Komentar di Jekyll"
 comments: true
 author: "Imam Nur"
-categories:
-  - tutorial
-tags:
-  - coding
-  - html
+tags: [codding]
 ---
 
 Setelah beberapa hari dibuat pusing oleh bagaimana caranya menambah kolom komentar pada github page, akhirnya saya menemukan cara yang cukup simple untuk mengatasi masalah tersebut. Dengan cara ini kalian tidak perlu lagi mencari page url dan page identifier seperti kebanyakan metode yang ada di google. Oke langsung saja kita ke tutorialnya.
