@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![Avatar](/images/avatar.png)
-I don't have any idea why i'm being here.
+![Avatar]({{site.baseurl}}/images/avatar.png)
+
+An INFP-T person, i don't believe in horoscope so don't ask what my horoscope is. Studying psychology in Diponegoro University since 2019, and have big interest in humanistic and gestalt psychology.
