@@ -3,7 +3,7 @@ layout: post
 title: "Masalah Pertanian"
 comments: true
 author: "Imam Nur"
-tags: [sastra]
+tags: [esai]
 ---
 
 Pangan merupakan kebutuhan dasar bagi manusia. Salah satu sumber pangan tersebut berasal dari hasil pertanian dan perkebunan. Indonesia yang merupakan negara agraris seharusnya dapat menjadi pemasok komoditas hasil pertanian dan perkebunan ke dunia internasional. Atau setidaknya mampu mewujudkan kedaulatan pangan negara. Selain itu, diharapkan pula negara mampu menciptakan sistem pertanian yang modern, efisien serta negara juga telah dapat menjamin kesejahteraan hidup bagi para petani. Namun, pada kenyataannya kondisi pertanian di Indonesia masih sangat tertinggal jika dibandingkan dengan negara agraris lainnya. Makin berkurangnya lahan, adanya konflik agraria, sistem pertanian yang masih tergolong kuno, serta semakin minimnya minat generasi muda untuk menjadi petani merupakan masalah serius yang sedang dihadapi oleh Indonesia saat ini.
