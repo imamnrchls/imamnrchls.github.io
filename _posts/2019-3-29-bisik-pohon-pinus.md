@@ -2,7 +2,7 @@
 layout: post
 title: "Bisik Pohon Pinus"
 author: "Imam Nur"
-tags: [sastra]
+tags: [cerpen]
 ---
 
 Aku tidak bisa tidur malam itu karena angin sedang bertiup kencang di luar. Terlebih lagi rumahku yang berada dekat dengan hutan pinus, membuatku semakin susah untuk memasukki alam mimpiku. Setiap kali aku mencoba memejamkan mata aku selalu mendengar sebuah bisikan yang memanggil nama ku. Akhirnya setelah terjaga beberapa lama aku dapat tidur dengan lelap karena angin kencang itu sudah berhenti berhembus. Saat tertidur aku bermimpi bertemu dengan seorang anak kecil seumuranku, saat aku temui ia sedang menangis. Tanpa pikir panjang lagi aku pun menghampirinya. Alangkah terkejutnya aku. Saat ia menoleh, ternyata ia adalah seorang anak keturunan Belanda, “Kenapa kau menangis?” tanyaku pada anak laki-laki berumur 12 tahun itu.
