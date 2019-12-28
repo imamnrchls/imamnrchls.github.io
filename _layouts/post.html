@@ -25,25 +25,6 @@ layout: default
 				</div>
 			</div>
 
-		</div>
-	</div>
-</div>
-
-<div class="container">
-	<div class="row">
-		<div class="col col-12">
-			
-			<!-- begin post -->
-			<article class="post wow fadeInUp" data-wow-delay=".2s">
-	
-			{% if page.image and page.image != "" %}
-				<div class="post-image" style="background-image: url('{{ page.image | relative_url }}')"></div>
-			{% endif %}
-	
-				<div class="post__content">
-					{{ content }}
-				</div>
-	
 				<div class="post__share">
 					<ul class="share__list list-reset">
 						<li class="share__item">
@@ -69,6 +50,25 @@ layout: default
 					</ul>
 				</div>
 
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			
+			<!-- begin post -->
+			<article class="post wow fadeInUp" data-wow-delay=".2s">
+	
+			{% if page.image and page.image != "" %}
+				<div class="post-image" style="background-image: url('{{ page.image | relative_url }}')"></div>
+			{% endif %}
+	
+				<div class="post__content">
+					{{ content }}
+				</div>
+	
 				<div class="widget-recent">
 					<h5 class="widget__title">Recommended for you</h5>
 					<div class="recent-box">
