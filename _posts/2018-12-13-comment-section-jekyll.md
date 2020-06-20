@@ -3,6 +3,7 @@ layout: post
 title: "Menambah Kolom Komentar di Jekyll"
 comments: true
 author: "Imam Nur"
+image:  https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 tags: [codding]
 ---
 
