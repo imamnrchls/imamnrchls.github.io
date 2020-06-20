@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /tentang/
 ---
 
 <img src="/images/avatar.png" alt="Imem" align="center" height="300" width="300">
