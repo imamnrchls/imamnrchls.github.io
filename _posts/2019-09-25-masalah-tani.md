@@ -3,6 +3,7 @@ layout: post
 title: "Masalah Pertanian"
 comments: true
 author: "Imam Nur"
+image : https://images.unsplash.com/photo-1520052203542-d3095f1b6cf0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 tags: [esai]
 ---
 
