@@ -27,7 +27,7 @@ hero-image: images/01.jpg # Add background image in section hero
 footer-image: images/15.jpg # Add background image in footer
 
 # Comment Section (Disqus)
-disqus-identifier: imamnrchls,github.io
+disqus-identifier: imamnrchls-github-io
 
 # Google Analytics
 google-analytics: "UA-142487742-2" # Add your identifier. For example UA-99631805-1.
