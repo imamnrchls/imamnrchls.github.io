@@ -2,6 +2,7 @@
 layout: post
 title: "Bisik Pohon Pinus"
 author: "Imam Nur"
+image : https://images.unsplash.com/photo-1524815694366-dfb3a2775495?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=891&q=80
 tags: [cerpen]
 ---
 
