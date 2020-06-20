@@ -3,6 +3,7 @@ layout: post
 title: "Tips Stage Photography"
 comments: true
 author: "Imam Nur"
+image : https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 tags: [fotografi]
 ---
 
