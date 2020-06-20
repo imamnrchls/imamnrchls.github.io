@@ -10,17 +10,17 @@ layout: default
 				<div class="post-info">
 					{% if page.tags.size >= 1 %}
 					<span class="post-tags">
-						posted in
+						di kirim dalam
 						{% for tag in page.tags %}
 							<a href="{{ site.baseurl }}/tag/{{ tag }}" class="post-tags__tag">{{ tag }}</a>
 						{% endfor %}
 					</span>
 					{% endif %}
 					<span class="post__meta">
-						<span class="post__date"> on <a href="{{post.url | prepend: site.baseurl}}">
+						<span class="post__date"> pada <a href="{{post.url | prepend: site.baseurl}}">
 							<time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time></a>
 						</span>
-						<span class="article__author"> by <a href="{{site.baseurl}}/about/">{{ site.author.name }}</a></span>
+						<span class="article__author"> oleh <a href="{{site.baseurl}}/about/">{{ site.author.name }}</a></span>
 					</span>
 				</div>
 			</div>
