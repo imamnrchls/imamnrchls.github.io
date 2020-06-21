@@ -173,9 +173,18 @@
   }
 }
 
-.recent-posts__title {
-  margin-bottom: 0;
+/* Container holding the image and the text */
+.container {
+  position: relative;
   text-align: center;
+  color: white;
+}
+
+.recent-posts__title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /* Newsletter */
@@ -231,13 +240,5 @@
     .newsletter-email {
       margin-bottom: 15px;
     }
-  }
-  
-  /* Centered text */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   }
 }
