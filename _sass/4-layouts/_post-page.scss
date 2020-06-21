@@ -232,4 +232,12 @@
       margin-bottom: 15px;
     }
   }
+  
+  /* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ }
 }
