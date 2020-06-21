@@ -100,6 +100,10 @@
   &.share__pinterest {
     background-color: #bd081c;
   }
+
+    &.share__whatsapp {
+    background-color: #25D366;
+  }
 }
 
 /* Recent Post */
@@ -173,18 +177,9 @@
   }
 }
 
-/* Container holding the image and the text */
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
 .recent-posts__title {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  margin-bottom: 0;
+  text-align: center;
 }
 
 /* Newsletter */
