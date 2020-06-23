@@ -21,8 +21,13 @@ tags: [karangan, artikel]
 <p>Sebagai salah satu ilmu pengetahuan, tentunya psikologi tidak akan pernah luput dari kritik. Karena justru dengan adanya kritik tersebut psikologi dapat menjadi ilmu yang lebih baik dan lebih mampu menjelaskan fokus kajiannya secara ilmiah. Selain itu, psikologi juga masih tergolong ilmu baru jika dibandingkan dengan ilmu lain seperti fisika dan ilmu-ilmu lainnya. Sehingga, masih banyak bagian dari ilmu psikologi yang memerlukan peningkatan. Psikologi masih akan membutuhkan waktu yang sedikit lama agar mampu mendapat pengakuan dari ilmu-ilmu lainnya.<p/>
 
 {% highlight markdown %}
-* Jogalekar, A. (2013, August 13). Is psychology a "real" science? Does it really matter? Retrieved June 23, 2020, from https://blogs.scientificamerican.com/the-curious-wavefunction/is-psychology-a-e2809creale2809d-science-does-it-really-matter/
-* Why Psychology and Statistics Are Not Science. (2015, November 06). Retrieved June 23, 2020, from https://www.alexberezow.com/why-psychology-and-statistics-are-not-science/
-* Walgito, B. (2004). Pengantar psikologi umum.
-* Rahman, A. A. (2017). Sejarah Psikologi: Dari Klasik Hingga Modern. Jakarta: Raja Grafindo Persada.
+Referensi
+
+Is psychology a "real" science? Does it really matter?. (2013, August 13). Retrieved June 23, 2020, from https://blogs.scientificamerican.com/the-curious-wavefunction/is-psychology-a-e2809creale2809d-science-does-it-really-matter/
+
+Why Psychology and Statistics Are Not Science. (2015, November 06). Retrieved June 23, 2020, from https://www.alexberezow.com/why-psychology-and-statistics-are-not-science/
+
+Walgito, B. (2004). Pengantar psikologi umum.
+
+Rahman, A. A. (2017). Sejarah Psikologi: Dari Klasik Hingga Modern. Jakarta: Raja Grafindo Persada.
 {% endhighlight %}
