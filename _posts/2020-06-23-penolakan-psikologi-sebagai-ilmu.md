@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Penolakan Psikologi Sebagai Ilmu"
+title: "Penolakan Terhadap Psikologi Sebagai Ilmu"
 comments: true
 author: "Imam Nur"
 image : https://images.unsplash.com/photo-1573511860302-28c524319d2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
