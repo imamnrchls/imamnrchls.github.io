@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Presentasi"
+title: "Penolakan Terhadap Psikologi Sebagai Ilmu"
 comments: true
 author: "Imam Nur"
-image:  https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
-tags: [kuliah]
+image : https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+tags: [karangan, artikel]
 ---
 
 <h3 id="pendidikan">Psikologi Pendidikan : Etnis dan Budaya</h3>
