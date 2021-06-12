@@ -10,4 +10,4 @@ Dalam renungan, sungai temaram. Hulu dan hilir, di antaranya terdapat cerita. Ce
 
 Dalam renungan, sungai temaram. Disertainya beribu kata yang tak teralirkan. Di antaranya terbentang jarak, membuat kapal-kapal itu hanya bisa tertambat. Tak ada beda dengan rindu yang tertahan, diam tak tersampaikan. Hilir yang meluap, ego yang melahap. Debur ombak, guruh gelombang, geramnya memecah tenang. Tak kuasa, dibuatnya kita tak berdaya. 
 
-Sesak di dada mu, dan pelik dalam pikir ku. Sepi yang menusuk, harap yang tak terpupuk. Hilir yang penuh gelombang, kapal-kapal yang karam.
+Sesak di dada mu, dan keruh dalam pikir ku. Sepi yang menusuk, harap yang tak terpupuk. Hilir yang penuh gelombang, kapal-kapal yang karam.
